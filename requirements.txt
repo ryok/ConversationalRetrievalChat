@@ -1,0 +1,7 @@
+diffusers
+gradio
+openai
+langchain
+Chroma
+chromadb
+tiktoken
